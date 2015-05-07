@@ -4,7 +4,6 @@
 * Conducted Random Forest for feature selection and data preprocessing 
 * Applied several Machine Learning algorithms - Decision Tree, SVM, KNN, Logistic Regression, LDA, and QDA - to predict whether clients will subscribe the bank term deposit
 * Obtained an optimal model with a remarkable 72.8% testing accuracy  
-* technologies used: scikit-learn, numpy, pandas
 
 ## Hightlights 
 * Data is unbalanced, 5% of all people will buy this product. If random guess, accuracy should around 5%, this model increase the accuracy to 72.8%
